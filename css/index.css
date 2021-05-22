@@ -1,8 +1,8 @@
-@import "/css/buttom.css" ;
-@import "/css/hero.css";
-@import "/css/header.css" ;
-@import "/css/button-images.css" ;
-@import "/css/wapper.css";
+@import "./css/buttom.css" ;
+@import "./css/hero.css";
+@import "./css/header.css" ;
+@import "./css/button-images.css" ;
+@import "./css/wapper.css";
 
 :root {
     --gradient: radial-gradient(41.48% 11.48% at 2.38% 8.52%, #747DE9 0%, rgba(255, 255, 255, 0) 100%), linear-gradient(135deg, #72EDF2 0%, #5151E5 100%) ;
