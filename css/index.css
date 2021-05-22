@@ -20,7 +20,7 @@
     --green: #42E2B8; 
     --white: white;
 }
-body {
+.body {
     background: var(--gradient);
     min-block-size: 100vh;
     color:  var(--purple);

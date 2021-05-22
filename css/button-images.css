@@ -4,6 +4,6 @@
     border: 2px solid var(--purple);
     background: var(--white);
 }
-button-images img {
+.button-images img {
     vertical-align: middle;
 }
